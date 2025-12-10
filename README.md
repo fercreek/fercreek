@@ -1,23 +1,24 @@
 # Hi there, I'm Fercreek 👋
 
-I'm a passionate **software developer** specializing in building robust and dynamic applications.
+I'm a **software developer** focused on building robust, reliable, and user-friendly web applications.
 
 ## 👨‍💻 Tech Stack
-- **Languages:** Ruby, Python, JavaScript
-- **Frameworks:** Rails, Vue.js
+- **Languages:** Ruby, Python, JavaScript  
+- **Frameworks & Tools:** Ruby on Rails, Vue.js, PostgreSQL, Docker
 
 ## 🚀 What I Do
-- Craft full-stack solutions with Rails and Vue.js
-- Write clean, maintainable, and efficient code
-- Always eager to learn the latest in tech
+- Build full-stack applications with Rails on the backend and Vue.js on the frontend  
+- Design clean, maintainable architectures and write readable, tested code  
+- Continuously learn and experiment with new tools, patterns, and best practices  
 
 ## 🌟 Featured Links
-- 📝 [Blog](http://blog.fercontreras.com/)
+- 📝 [Blog](http://fercontreras.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fercreek)
+- 🌐 [Website](https://www.fercontreras.com)
 
 ## 💃 Fun Fact
-When I'm not coding, you'll probably find me dancing bachata or salsa!
+When I'm not coding, you’ll probably find me dancing bachata or salsa.  
 
 ---
 
-Let's connect and build something extraordinary together!
+Let’s connect and build something great together!
