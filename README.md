@@ -36,13 +36,11 @@ I'm a **software developer** focused on building robust, reliable, and user-frie
 
 - **[Studio Link](https://studiolink.online/)** – A SaaS platform that helps studios and gyms manage classes, attendance, memberships, and payments in one place.  
 - **[Vayla](https://vayla.dance/)** – A web app that streamlines dance competitions by automating judging and scoring, reducing manual work and errors.  
-- **[New side project]** – Another product I’m currently building as a playground for Next.js / Go / FastAPI / Rust and experimentation with new ideas. *(Replace this line with the real name and link once it’s public.)*
 
 ## 🌟 Featured Links
 
 - 📝 [Blog](https://www.fercontreras.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fercreek)  
-- 🌐 [Website](https://www.fercontreras.com)  
 - 🕺 [Studio Link](https://studiolink.online/)  
 - 💃 [Vayla](https://vayla.dance/)
 
