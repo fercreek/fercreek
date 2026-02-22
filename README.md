@@ -1,53 +1,40 @@
 # Hi there, I'm Fercreek 👋
 
-I'm a **software developer** focused on building robust, reliable, and user-friendly web applications and SaaS products.
+## Senior Software Engineer | Problem Owner | Strategic Operator
 
-## 👨‍💻 Tech Stack
-
-**Core stack**
-
-- **Languages:** Ruby, Python, JavaScript  
-- **Backend:** Ruby on Rails, Django  
-- **Frontend:** React, Next.js, Vue.js  
-
-**Data & Platforms**
-
-- **Databases / Backend-as-a-Service:** PostgreSQL, Supabase  
-
-**Infra & Deployment**
-
-- **Containers & Dev:** Docker  
-- **Hosting / Deployment:** Vercel, Render  
-
-**Currently exploring (side projects & learning)**
-
-- **Golang** for backend services and APIs  
-- **FastAPI** for high-performance Python APIs  
-- **Rust** for systems programming and high-performance tooling  
-
-## 🚀 What I Do
-
-- Build full-stack applications with Rails/Django on the backend and React/Next.js/Vue.js on the frontend  
-- Design clean, maintainable architectures and write readable, tested code  
-- Help turn ideas and messy processes into real, production-ready web platforms  
-- Continuously learn and experiment with new tools, patterns, and best practices  
-
-## 🧩 Side Projects
-
-- **[Studio Link](https://studiolink.online/)** – A SaaS platform that helps studios and gyms manage classes, attendance, memberships, and payments in one place.  
-- **[Vayla](https://vayla.dance/)** – A web app that streamlines dance competitions by automating judging and scoring, reducing manual work and errors.  
-
-## 🌟 Featured Links
-
-- 📝 [Blog](https://www.fercontreras.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fercreek)  
-- 🕺 [Studio Link](https://studiolink.online/)  
-- 💃 [Vayla](https://vayla.dance/)
-
-## 💃 Fun Fact
-
-When I'm not coding, you’ll probably find me dancing bachata or salsa — sometimes even building tools for the dance world.
+I don't just ship code; I deliver **business relief and certainty**. With 9+ years of experience, I’ve shifted from being a passive builder to a **Problem Owner** who orchestrates technology to eliminate operational chaos and drive measurable outcomes.
 
 ---
 
-Let’s connect and build something great together!
+### 🛠 The Engine (Stack → Output → Outcome)
+
+I leverage a professional system of tools to turn complex problems into scalable digital assets:
+
+* **Reliability & Scale**: Ruby on Rails, Python/Django, and PostgreSQL for architectures that support long-term growth.
+* **Speed & Engagement**: React, Next.js, and Vue.js to build high-performance interfaces that convert.
+* **Automation & Efficiency**: AI Agents and Go/Rust to reduce manual bottlenecks and accelerate time-to-market.
+
+---
+
+### 🚀 Proven Solutions (Product Ownership)
+
+* **[Litebox Parcel](https://www.liteboxparcel.com/)**: Streamlining international logistics and cross-border shipping by providing a reliable infrastructure that ensures transparency and predictable delivery outcomes.
+* **[Studio Link](https://studiolink.online/)**: Automating administrative workflows for gyms to replace manual chaos with streamlined membership and payment systems.
+* **[Vayla](https://vayla.dance/)**: Providing relief to event organizers by automating dance competition scoring and reducing human error.
+* **Logistics & Blockchain**: Architecting transparent systems to solve supply chain friction and ensure data integrity.
+
+---
+
+### 💃 Beyond the Code
+
+My discipline as a **Competitive Latin Dancer** and my analytical lens as a **Crypto Trader** are the foundations of my professional "Operating System". I approach engineering with the rhythm of a performer and the strategic risk management of a trader.
+
+---
+
+### 📬 Let’s Connect
+
+I am focused on high-impact collaborations where I can own the outcome and move the needle for your business.
+
+* 📝 [Blog & Identity](https://www.fercontreras.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/fercreek)
+* 🛠 [Engineering Services](https://contrerascode.com/)
